@@ -1,4 +1,5 @@
 import mongolian
+import excalibur
 time_periods = ['1207']
 
 print("After years of development, you have successfully created a time travel device. The device comes in the form of a small watch with a touchscreen. By adjusting the settings on the watch, you can travel to any time and location that you want. However, you only have enough power for a round trip, so use it wisely. For your first trip, you have 2 different time periods in mind: 1207 CE, Mongolia, and 1390 CE, England")
@@ -9,5 +10,6 @@ def time_select(time_periods):
     if years == (1207):
        
         mongolian.chose_mongolian()
-
+    if years == (1000):
+        excalibur.chose_excalibur()
 time_select(time_periods)
