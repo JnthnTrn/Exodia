@@ -3,6 +3,7 @@ def chose_excalibur():
     choice = input("Do you want to go to the city? y/n")
     if(choice == "y"):
         print("you go to the city")
-    elif:
+    if (choice == "n"):
         print("You get up, and walk towards the mysterious sound in the depths of the forest")
+
 
