@@ -38,7 +38,7 @@ def chose_mongolian():
         print("The girl struggles to get up and I notice her pale, skinny legs.")
         print("Dragar: But anyway mister, do you have any food to spare?")
         choice2_2 = input("Yes, I do have food / No, I don't have food")
-        if(choice2_2 == "Yes I do have food"):
+        if(choice2_2 == "Yes, I do have food"):
             print("Dragar: Really? Can I pleeeease have some?")
             print("You realize you dont have any food nor money.")
             print("Actually, sorry I don't have food on me, but we can find some for sure... probably.")
