@@ -170,7 +170,7 @@ def chose_mongolian():
             print("If you take revenge, then how would that make you any better than that old fool Genghis khan? Right?")
             print("Dragar puts her hood back on.")
             print("An old rich man comes up to the two of you")
-        if(choice2_3 == "hesitate")
+        if(choice2_3 == "hesitate"):
             print("Dragar: Aww come on, I let you come to my secret spot and you're making that disguted face?")
             print("Alright. I'll eat it.")
             print("Dragar: Don't worry, haha, you'll get used to it.")
